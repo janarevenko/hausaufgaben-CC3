@@ -36,4 +36,4 @@ print(personFour.age);
 print(personFour.firstName);
 print(personOne.fullName);
 */
-console.log(person.age);
+console.log(person.fullname);
